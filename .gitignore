@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime data this MCP generates while running -- personal to
+# whoever's machine it runs on, should never be committed
+data/
+output/
+workflows/
+chrome_profile/
+
+# Environment / editor
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
