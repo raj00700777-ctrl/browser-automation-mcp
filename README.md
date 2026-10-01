@@ -1,4 +1,4 @@
-# Raj Browser MCP
+# Browser MCP
 
 A local browser-automation MCP server for Claude Desktop, built on
 Playwright + Chrome DevTools Protocol. Connects to a real, visible
